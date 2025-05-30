@@ -1,5 +1,4 @@
 import { OrderCard } from "@/components/OrderCard";
-import Image from "next/image";
 
 export default function Home() {
   const mockData = [
